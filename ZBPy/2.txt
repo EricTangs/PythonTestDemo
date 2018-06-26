@@ -1,0 +1,40 @@
+Please input:
+映像名称                       PID 会话名              会话#       内存使用 
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0      3,536 K
+smss.exe                       364 Services                   0      1,200 K
+csrss.exe                      584 Services                   0      4,500 K
+wininit.exe                    672 Services                   0      5,424 K
+csrss.exe                      692 Console                    1     33,832 K
+winlogon.exe                   736 Console                    1      8,356 K
+services.exe                   788 Services                   0     10,148 K
+lsass.exe                      796 Services                   0      9,948 K
+lsm.exe                        808 Services                   0      4,436 K
+svchost.exe                    892 Services                   0      9,760 K
+QQPCRTP.exe                   1020 Services                   0     20,452 K
+svchost.exe                    628 Services                   0      7,440 K
+svchost.exe                   1016 Services                   0     18,884 K
+svchost.exe                   1028 Services                   0    111,900 K
+svchost.exe                   1056 Services                   0      9,128 K
+svchost.exe                   1080 Services                   0     28,332 K
+audiodg.exe                   1208 Services                   0     23,388 K
+svchost.exe                   1236 Services                   0      5,768 K
+svchost.exe                   1332 Services                   0     13,740 K
+svchost.exe                   1468 Services                   0      6,188 K
+QQProtect.exe                 1656 Services                   0     15,736 K
+sqlwriter.exe                 1720 Services                   0      6,668 K
+svchost.exe                   1740 Services                   0      6,180 K
+svchost.exe                   2096 Services                   0      5,740 K
+taskhost.exe                  2552 Console                    1      9,132 K
+dwm.exe                       2612 Console                    1     35,440 K
+explorer.exe                  2656 Console                    1     71,164 K
+SearchIndexer.exe             3016 Services                   0      8,912 K
+svchost.exe                   2160 Services                   0      9,512 K
+wmplayer.exe                  1068 Console                    1     96,368 K
+cmd.exe                       1216 Console                    1      3,292 K
+conhost.exe                   2980 Console                    1      6,636 K
+WmiPrvSE.exe                  2572 Services                   0      7,408 K
+python.exe                    2880 Console                    1      8,284 K
+cmd.exe                       1964 Console                    1      3,056 K
+tasklist.exe                  1296 Console                    1      6,484 K
